@@ -1,0 +1,8 @@
+objectif terminer le livre avant le 11
+Title of the book
+    fundamentals of python data structures 
+author : kenneth A Lambert
+path of the file : /home/mfdev/Téléchargements/Fundamentals Of Python Data Structures (Kenneth A. Lambert) (z-lib.org).pdf
+
+progress bar
+03:04 page 106 Defining a Singly Linked Node Class
